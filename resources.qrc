@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/shaders" lang="shader">
+        <file>image.vert</file>
+        <file>image.frag</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>awesomeface.png</file>
+    </qresource>
+</RCC>
