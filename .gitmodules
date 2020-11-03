@@ -1,0 +1,3 @@
+[submodule "brick"]
+	path = brick
+	url = https://github.com/ChenKQ/brick.git
